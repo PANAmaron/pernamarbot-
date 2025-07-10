@@ -1,0 +1,15 @@
+# Telegram Airdrop Bot 🤖
+
+A test bot that simulates SOL airdrop distribution.
+
+## Features
+- Collects "wallet addresses" (test mode)
+- Guides users through social joins
+- Simulates reward distribution
+
+## Setup
+1. Install requirements: `pip install -r requirements.txt`
+2. Configure your bot token in `bot.py`
+3. Run: `python bot.py`
+
+⚠️ **Warning**: This is a test bot. Revoke tokens after testing.
